@@ -1,1 +1,3 @@
-===Ce projet n'a pas beaucoup de sens, j'ai mis en mainClass
+**Ce projet n'a pas beaucoup de sens 
+
+j'ai mis en mainClass la class InverserTableau.java
