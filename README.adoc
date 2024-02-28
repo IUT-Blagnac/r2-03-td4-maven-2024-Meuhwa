@@ -1,3 +1,5 @@
-**Ce projet n'a pas beaucoup de sens 
+Ce projet n'a pas beaucoup de sens 
 
 j'ai mis en mainClass la class InverserTableau.java
+
+Et je n'ai plus assez de temps pour faire de belles instructions
